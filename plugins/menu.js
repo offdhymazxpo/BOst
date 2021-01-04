@@ -1,7 +1,7 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
-╔═ 〘 ♥NFQ BOT♥ 〙══╗
-╚════════════════════╝ 
+NFQ BOT 🤖
+Rec: ~Drawl Nag
 
 ➸ Prefix:  *「 ${_p} 」*
 ➸ Status: *「 Online 」*
@@ -18,7 +18,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 🌹${_p}bucin
 ╚ ═════════════╝
 
-*╔ ═〘 ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ 〙╗*
+*╔ ═〘 INFORMATION 〙╗*
 🌹${_p}ssweb <url>
 🌹${_p}sswebf <url>
 🌹${_p}google <pencarian>
@@ -27,7 +27,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╚═════════════╝
 
 
-╔═〘 ᴏᴛʜᴇʀᴤ ᴄᴏᴍᴍᴀɴᴅᴤ 〙═╗
+*╔═〘 GROUP 〙═╗*
 🌹${_p}add (62xxxxxxxxxx)
 🌹${_p}kick @mention
 🌹${_p}promote @mention
@@ -38,15 +38,15 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 🌹${_p}listonline [groupid]
 🌹${_p}grouplist
 
-「 EXPERIMENTAL 」
-🌹${_p}jadibot 
+*「 EXPERIMENTAL 」*
+🌹*${_p}jadibot*
 [kode login jika ada / kosongin]
 Jangan Lupa Scan QR
 
-「 Advanced 」
+*「 Advanced 」*
 > return m 'javascript eval' + m.sender
 
-=======「 INFO 」 =======
+=======*「 INFO 」*=======
 Coded using *Vim* on Android \\w Termux
 by *@Nurutomo*
 Github: 
