@@ -47,16 +47,8 @@ Jangan Lupa Scan QR
 > return m 'javascript eval' + m.sender
 
 =======*「 INFO 」*=======
-Coded using *Vim* on Android \\w Termux
-by *@Nurutomo*
-Github: 
-https://github.com/Arya274/Arya-Bot
-
-YouTube: 
-https://www.youtube.com/c/DrawlNag
-
 OwNer:
-*Wa.me/6288235435804*
+*Wa.me/6285796582392*
 ==================
 `.trim(), m)
 }
